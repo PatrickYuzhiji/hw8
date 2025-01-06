@@ -1,0 +1,118 @@
+[
+  {
+    "fullArticleId": "5a6eea6c8cd16946dcf1",
+    "id": "a8b2c938a269",
+    "img": "h5n1.jpg",
+    "tags": ["research", "cows"],
+    "title": "H5N1 virus isolated from infected dairy worker is 100% lethal in ferrets, but does not appear to be circulating in nature anymore"
+  },
+  {
+    "fullArticleId": "4beccc4b89eec3be74c1",
+    "id": "7673a7e38124",
+    "img": "tumor.jpg",
+    "tags": ["research"],
+    "title": "UW-Madison researchers use AI to identify sex-specific risks associated with brain tumors"
+  },
+  {
+    "fullArticleId": "4183c00cdfe28cb4b0d4",
+    "id": "24f748069989",
+    "img": "tardigrade.jpg",
+    "tags": ["research"],
+    "title": "An ancient animal is helping scientists improve modern technology"
+  },
+  {
+    "fullArticleId": "8726ff4f22d52af3db82",
+    "id": "339d03c343b7",
+    "img": "festival.jpg",
+    "tags": ["research", "campus", "community"],
+    "title": "Cultivate curiosity at the 14th annual Wisconsin Science Festival"
+  },
+  {
+    "fullArticleId": "a704728983e407f2cc01",
+    "id": "5d80001b0ba9",
+    "img": "teaching.jpg",
+    "tags": ["campus"],
+    "title": "Teaching, research lead UW to rise in worldwide rankings"
+  },
+  {
+    "fullArticleId": "8d716f9558a2f6ae14eb",
+    "id": "1389e205724f",
+    "img": "aquatic.jpg",
+    "tags": ["research"],
+    "title": "Aquatic invasive species are more widespread in Wisconsin than previously thought"
+  },
+  {
+    "fullArticleId": "8923aaba32782a826245",
+    "id": "857150dd9f84",
+    "img": "gobigread.jpg",
+    "tags": ["campus", "community"],
+    "title": "'Sitting Pretty' author to deliver Go Big Read keynote Oct. 16"
+  },
+  {
+    "fullArticleId": "9a97f7811c864500dcb8",
+    "id": "d98f362cda62",
+    "img": "portage.jpg",
+    "tags": ["community"],
+    "title": "Portage attracts residents, businesses, and workers after UniverCity partnership"
+  },
+  {
+    "fullArticleId": "698a57c169e7d9c6ac65",
+    "id": "29b6b0ac425d",
+    "img": "izzy.jpg",
+    "tags": ["research"],
+    "title": "Great Lakes climate reporter to visit campus as fall Science Journalist in Residence"
+  },
+  {
+    "fullArticleId": "771df2e0a0e073486ca5",
+    "id": "6e59d932fb6e",
+    "img": "explore.jpg",
+    "tags": ["community"],
+    "title": "Faculty and staff explore state's rivers, culture and more in Wisconsin Idea Seminar"
+  },
+  {
+    "fullArticleId": "f4d1507e276dd6aedf28",
+    "id": "c71749cbe426",
+    "img": "topchef.jpg",
+    "tags": ["campus", "community"],
+    "title": "‘Top Chef' standout will whip up a speech for UW's winter commencement"
+  },
+  {
+    "fullArticleId": "73161b1d7787a864525a",
+    "id": "9d017a54971c",
+    "img": "pell.jpg",
+    "tags": ["campus", "cows"],
+    "title": "From cattle farmer to college freshman: Bucky's Pell Pathway eases the way"
+  },
+  {
+    "fullArticleId": "7a779009eda1dea5d55c",
+    "id": "a467e72688bc",
+    "img": "cows.jpg",
+    "tags": ["research", "cows"],
+    "title": "Raw milk is risky, but airborne transmission of H5N1 from cow's milk is inefficient in mammals."
+  },
+  {
+    "fullArticleId": "e166c9c1dba6f3edc87e",
+    "id": "8ce9cc625cc1",
+    "img": "birdflu.jpg",
+    "tags": ["cows"],
+    "title": "Update from UW-Madison experts on bird flu spread"
+  }
+]
+
+
+{"author": "Will Cushman", 
+"body": ["A dairy worker in Texas became infected with
+ H5N1 avian influenza likely during the course of milking cows. 
+h
+      y this virus is so pathogenic in ferrets and what that could mean for human infections.\
+      ""],
+      
+      "id": "5a6eea6c8cd16946dcf1", "img": "h5n1.jpg", 
+      
+      "posted": "October 28, 2024", 
+
+      "tags": ["research", "cows"], "title": "H5N1 virus isolated from infected dairy wor
+      ker is 100% lethal in ferrets, but does not appear to be circulating in na
+      ture anymore", "url": 
+      "https://news.wisc.edu/h5n1-virus-isolated-from-infected-dairy-worker-is-100-lethal-in-ferrets-but-does-not-appear-
+      to-be-circulating-in-nature-anymore/"}
